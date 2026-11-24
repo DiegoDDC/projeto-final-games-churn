@@ -1,0 +1,83 @@
+game_name,avg_players,pico_historico,taxa_queda_pico,meses_consecutivos_queda,risco,maior_sequencia_queda,idade_meses
+7 Days to Die,18453.0,25367.0,27.25,1,Estável,5,94
+ARK: Survival Evolved,39489.0,87739.0,54.99,3,Alto,7,77
+Age of Empires II: Definitive Edition,14502.0,19510.0,25.67,1,Estável,3,23
+Arma 3,12650.0,26972.0,53.1,1,Atenção,5,103
+Battlefield 1,5066.0,12500.0,59.47,1,Atenção,1,16
+Battlefield V,27266.0,27266.0,0.0,0,Estável,1,16
+Black Desert,17256.0,26582.0,35.08,2,Estável,5,53
+Bloons TD 6,19384.0,19867.0,2.43,0,Estável,4,34
+Brawlhalla,16329.0,19101.0,14.51,1,Estável,4,90
+Cities: Skylines,13483.0,26185.0,48.51,4,Atenção,4,80
+Conqueror's Blade,5678.0,6814.0,16.66,1,Estável,7,27
+Counter Strike: Global Offensive,512351.0,857604.0,40.26,0,Estável,6,111
+Counter-Strike,8461.0,34814.0,75.7,5,Alto,5,111
+Crusader Kings III,9982.0,48313.0,79.34,1,Atenção,5,13
+DARK SOULS III,9169.0,74267.0,87.65,2,Atenção,4,66
+Dayz,20208.0,26336.0,23.27,1,Estável,4,108
+Dead by Daylight,51391.0,62488.0,17.76,0,Estável,4,64
+Destiny 2,89845.0,165308.0,45.65,0,Estável,4,24
+Divinity: Original Sin 2,10499.0,28003.0,62.51,0,Atenção,4,62
+Don't Starve Together,15030.0,20807.0,27.77,3,Atenção,4,82
+Dota 2,391082.0,709178.0,44.85,1,Estável,6,111
+Dying Light,5054.0,15513.0,67.42,3,Alto,5,80
+EA SPORTS FIFA 21,14688.0,21232.0,30.82,2,Estável,3,12
+Eternal Return,5803.0,20732.0,72.01,1,Atenção,7,12
+Euro Truck Simulator 2,20302.0,28667.0,29.18,2,Estável,5,105
+Europa Universalis IV,14940.0,20938.0,28.65,1,Estável,4,98
+FINAL FANTASY XIV Online,31515.0,40302.0,21.8,1,Estável,3,92
+Factorio,12120.0,16466.0,26.39,0,Estável,5,68
+Fall Guys: Ultimate Knockout,10915.0,124479.0,91.23,0,Atenção,3,14
+Fallout 4,16614.0,226298.0,92.66,1,Atenção,5,71
+Farming Simulator 19,17194.0,23406.0,26.54,1,Estável,5,35
+Football Manager 2020,9093.0,81180.0,88.8,1,Atenção,11,23
+Garry's Mod,21523.0,38759.0,44.47,2,Estável,4,111
+Geometry Dash,8244.0,8531.0,3.36,1,Estável,8,82
+Grand Theft Auto V,81232.0,192714.0,57.85,1,Atenção,5,78
+Hearts of Iron IV,25230.0,27428.0,8.01,1,Estável,5,66
+Hunt: Showdown,13959.0,14804.0,5.71,0,Estável,3,48
+Left 4 Dead 2,17121.0,23110.0,25.92,2,Estável,4,111
+Medieval Dynasty,3276.0,10156.0,67.74,0,Atenção,3,13
+Monster Hunter: World,15486.0,188291.0,91.78,1,Atenção,5,38
+Mount & Blade II: Bannerlord,11981.0,113493.0,89.44,1,Atenção,7,19
+NBA 2k21,6443.0,15551.0,58.57,4,Alto,4,13
+Need for Speed Heat,2496.0,4079.0,38.81,0,Estável,3,16
+No Man's Sky,17827.0,36976.0,51.79,0,Atenção,4,62
+Oxygen Not Included,6454.0,14278.0,54.79,1,Atenção,4,64
+PAYDAY 2,29239.0,80780.0,63.8,1,Atenção,7,105
+PUBG: Battlegrounds,167102.0,1584887.0,89.46,2,Atenção,10,55
+Path of Exile,14357.0,51322.0,72.03,1,Atenção,4,96
+Phasmophobia,19122.0,44993.0,57.5,0,Atenção,7,12
+Red Dead Redemption 2,14933.0,28626.0,47.83,2,Estável,5,22
+RimWorld,20349.0,29458.0,30.92,1,Estável,4,65
+Rocket League,33150.0,72356.0,54.18,1,Atenção,5,76
+Rust,69503.0,142117.0,51.09,2,Atenção,7,94
+SCUM,12072.0,18734.0,35.56,0,Estável,6,49
+Satisfactory,8677.0,16773.0,48.27,0,Estável,4,16
+Sea of Thieves,10291.0,29454.0,65.06,3,Alto,4,16
+Shadowverse,2876.0,7533.0,61.81,0,Atenção,2,60
+Sid Meier's Civilization V,16202.0,43326.0,62.6,1,Atenção,7,111
+Sid Meier's Civilization VI,38634.0,85934.0,55.04,0,Atenção,8,60
+Slay the Spire,6679.0,19224.0,65.26,1,Atenção,5,51
+Stardew Valley,24321.0,57167.0,57.46,1,Atenção,5,70
+Stellaris,13871.0,22286.0,37.76,0,Estável,4,68
+Team Fortress 2,81854.0,106223.0,22.94,0,Estável,6,111
+Terraria,25234.0,129809.0,80.56,4,Alto,6,111
+The Binding of Isaac: Rebirth,13114.0,46062.0,71.53,5,Alto,7,83
+The Elder Scrolls Online,16778.0,28468.0,41.06,1,Estável,5,87
+The Elder Scrolls V: Skyrim Special Edition,19803.0,28054.0,29.41,1,Estável,5,61
+The Sims 4,7693.0,13420.0,42.67,2,Estável,2,16
+The Witcher 3: Wild Hunt,19680.0,51917.0,62.09,0,Atenção,4,77
+Tom Clancy's Rainbow Six Siege,51140.0,119878.0,57.34,0,Atenção,5,70
+Total War: THREE KINGDOMS,4505.0,102719.0,95.61,4,Alto,6,30
+Total War: WARHAMMER II,18726.0,35611.0,47.42,2,Estável,4,54
+Unturned,24874.0,34208.0,27.28,1,Estável,4,88
+VRChat,15274.0,16354.0,6.6,1,Estável,4,57
+War Thunder,25180.0,30023.0,16.13,0,Estável,4,101
+Warframe,46968.0,76595.0,38.68,2,Estável,4,103
+World of Tanks Blitz,17286.0,22343.0,22.64,0,Estável,5,60
+World of Warships,7290.0,11574.0,37.02,1,Estável,3,48
+Yu-Gi-Oh! Duel Links,8630.0,10533.0,18.06,1,Estável,3,47
+eFootball PES 2021 SEASON UPDATE,9466.0,11303.0,16.25,2,Estável,2,13
+tModLoader,11069.0,13726.0,19.36,1,Estável,2,17
+雀魂麻将(MahjongSoul),6927.0,6927.0,0.0,0,Estável,3,15
