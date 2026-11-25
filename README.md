@@ -55,6 +55,7 @@ projeto-final-games-churn/
 │   └── 02_exploracao_metricas.ipynb
 └── docs/
     ├── Documentacao_Projeto_Final_Games.docx
+    ├── Explicacao_e_Interpretacao_Projeto_Games.pdf
     ├── Resumo_limpeza_de_dados.docx
     ├── dicionario_dados.xlsx
     └── ficha_fonte_steam.xlsx
